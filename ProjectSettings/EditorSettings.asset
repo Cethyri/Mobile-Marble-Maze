@@ -4,7 +4,11 @@
 EditorSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 7
+<<<<<<< Updated upstream
   m_ExternalVersionControlSupport: Hidden Meta Files
+=======
+  m_ExternalVersionControlSupport: Visible Meta Files
+>>>>>>> Stashed changes
   m_SerializationMode: 2
   m_LineEndingsForNewScripts: 2
   m_DefaultBehaviorMode: 0
